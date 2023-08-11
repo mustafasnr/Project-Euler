@@ -11,7 +11,6 @@ int amicable(int x){
     return divs;
 }
 
-//daha iyi çözümü var eminim bundan 
 int main(){
     int sum=0;
     for(int i=1;i<10000;i++){
